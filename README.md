@@ -1,5 +1,5 @@
 # SliderJS
-//Working slider written in JavaScript//
+
     slider({
         container: '.offer__slider',
         nextArrow: '.offer__slider-next',
